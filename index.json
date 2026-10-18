@@ -1,0 +1,11 @@
+{
+  "org": "kraiz",
+  "repo": "django-crontab",
+  "versions": [
+    {
+      "commit": "978a26d547f1004ee286d08e31625bfbcee28811",
+      "tag": "",
+      "parsed_at": "2026-10-18T10:13:21.765472+00:00"
+    }
+  ]
+}
